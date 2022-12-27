@@ -34,9 +34,9 @@
         transition: 0.6s ease-out;
 } */
 
-p{
+/* p{
     margin: 0 0 2rem 0;
-}
+} */
 
 .span-3 {
     grid-column: span 3;

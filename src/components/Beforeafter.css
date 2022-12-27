@@ -32,13 +32,15 @@
 .ba-cards{
     display: flex;
     justify-content: space-evenly;
-    padding:   0 0 3rem 0;
+    padding: 0 0 3rem 0;
 }
 
 @media screen and (max-width: 940px) {
     .ba-cards{
         flex-direction: column;
         align-items: center;
+        justify-content: center;
+        margin: 0 1rem;
     }
 
     .ba-head h1{

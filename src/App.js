@@ -1,4 +1,5 @@
 import React from 'react';
+import About from './components/About';
 import Beforeafter from './components/Beforeafter';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
@@ -11,6 +12,7 @@ function App() {
       <Hero/>
       <Whatweoffer/>
       <Beforeafter/>
+      <About/>
     </div>
   );
 }
