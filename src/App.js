@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Whatweoffer from './components/Whatweoffer';
 import Tour from './components/Tour';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -13,9 +14,9 @@ function App() {
       <Hero />
       <Whatweoffer />
       <Beforeafter />
-
       <Tour />
       <About />
+      <Footer/>
     </div>
   );
 }

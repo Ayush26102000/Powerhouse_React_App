@@ -26,7 +26,7 @@ const Beforeafter = () => {
                             image={ba1}
                             alt="ba"
                         />
-                        <CardContent>
+                        <CardContent className='c-con'>
                             <Typography gutterBottom variant="h5" component="div">
                                 Client 1
                             </Typography>
