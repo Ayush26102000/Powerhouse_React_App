@@ -1,11 +1,12 @@
-// import React from 'react';
-import '../Results/Beforeafter.css';
 import * as React from 'react';
+import '../Results/Beforeafter.css';
+
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { Button, CardActionArea, CardActions } from '@mui/material';
+
 import ba1 from '../../assets/ba1.jpg';
 import ba2 from '../../assets/ba2.jpg';
 import ba3 from '../../assets/ba3.jpg';
@@ -26,7 +27,7 @@ const Beforeafter = () => {
                             image={ba1}
                             alt="ba"
                         />
-                        <CardContent className='c-con' style={{fontFamily: "'Graduate', cursive"}}>
+                        <CardContent className='c-con' style={{ fontFamily: "'Graduate', cursive" }}>
                             <Typography gutterBottom variant="h5" component="div">
                                 Client 1
                             </Typography>
@@ -52,7 +53,7 @@ const Beforeafter = () => {
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="div">
-                                Client 2 
+                                Client 2
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
                                 Most of the weight-loss warriors here tried from
@@ -77,11 +78,11 @@ const Beforeafter = () => {
                             alt="ba"
                         />
                         <CardContent>
-                            
+
                             <Typography gutterBottom variant="h5" component="div">
-                                Client 3 
+                                Client 3
                             </Typography>
-                           
+
                             <Typography variant="body2" color="text.secondary">
                                 If you’re like any of the women in these incredible weight-loss transformation
                                 stories, you’ve struggled.

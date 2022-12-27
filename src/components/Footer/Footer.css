@@ -10,7 +10,8 @@
     padding-right: 1rem;
 }
 
-.footer .top, .bottom {
+.footer .top,
+.bottom {
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -24,10 +25,11 @@
 }
 
 .footer .icon {
-   color: var(--primary-light);
+    color: var(--primary-light);
 }
 
-.footer .left, .right {
+.footer .left,
+.right {
     display: flex;
     align-items: center;
 }
@@ -45,7 +47,7 @@
         flex-direction: column;
     }
 
-    .footer{
+    .footer {
         padding: 0 2rem;
     }
 }

@@ -8,34 +8,26 @@
     z-index: 2;
     position: absolute;
     color: #ffffff;
-    
-
 }
-
-
-
-
-
-
 
 .navbar-bg {
     background-color: #f5f5f5;
 }
 
-.nav-icons{
+.nav-icons {
     display: flex;
     transition: 0.3s ease-in-out;
     cursor: pointer;
 }
 
-.nav-icons h2{
+.nav-icons h2 {
     padding: 0 1.2rem;
 }
 
 
 .nav-icons :hover {
     transform: scale(1.2);
-    
+
 }
 
 .nav-menu {
@@ -44,13 +36,11 @@
 
 }
 
-.nav-menu li:hover{
+.nav-menu li:hover {
     transform: scale(0.9);
     color: #ccc;
-    
+
 }
-
-
 
 li {
     padding: 0 1rem;
@@ -77,7 +67,7 @@ button {
     display: none;
 }
 
-.icon{
+.icon {
     font-size: 1.5rem;
     cursor: pointer;
 }
@@ -98,7 +88,7 @@ button {
         color: #000;
     }
 
-    .dark{
+    .dark {
         color: #000;
     }
 
@@ -132,7 +122,7 @@ button {
 
     .social-icons .icon:hover {
         transform: scale(1.5);
- 
+
     }
 
     .mobile-menu button {

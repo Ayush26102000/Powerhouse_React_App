@@ -1,11 +1,11 @@
 import React from 'react';
 import '../Contact/Contact.css';
-import {BsTelephoneInboundFill} from 'react-icons/bs';
+import { BsTelephoneInboundFill } from 'react-icons/bs';
 
 const Contact = () => {
     return (
         <div name='contact' className='contact' >
-            <h1><BsTelephoneInboundFill/> Contact Us</h1>
+            <h1><BsTelephoneInboundFill /> Contact Us</h1>
             <form>
                 <label>Name</label>
                 <input type="text" placeholder='Enter Your Name' />

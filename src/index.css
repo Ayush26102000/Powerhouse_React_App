@@ -1,56 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
 
-
-*{
+* {
   box-sizing: border-box;
-  margin:0;
+  margin: 0;
   padding: 0;
 }
 
-
-:root{
+:root {
   --primary: #f9ef23;
   --secondary: #000;
 }
 
-body{
+body {
   font-family: 'Graduate', cursive;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
 
-li{
+li {
   text-decoration: none;
   font-family: 'Graduate', cursive;
 }
 
-h1{
+h1 {
   font-size: 3.5rem;
   font-family: 'Graduate', cursive;
 }
 
-p{
+p {
   font-family: 'Graduate', cursive;
 }
 
-h2{
+h2 {
   font-size: 2rem;
-  font-family: 'Graduate', cursive;;
+  font-family: 'Graduate', cursive;
+  ;
 }
 
-.container{
+.container {
   max-width: 1240px;
   margin: auto;
   padding: 0 1rem;
 }
 
-@media screen and (max-width: 940px){
-    h1{
-      font-size: 2.5rem;
-    }
-    h2{
-      font-size: 1.5rem;
-    }
+@media screen and (max-width: 940px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
 }

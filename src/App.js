@@ -17,8 +17,8 @@ function App() {
       <Beforeafter />
       <Tour />
       <About />
-      <Contact/>
-      <Footer/>
+      <Contact />
+      <Footer />
     </div>
   );
 }
