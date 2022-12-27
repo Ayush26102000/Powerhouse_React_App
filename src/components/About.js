@@ -6,7 +6,11 @@ import '../components/About.css';
 const About = () => {
     return (
         <div className='about'>
-    
+            <div className='a-text'>
+                </div>    
+                <div className='a-img'>
+                    
+                </div>
         </div>
     )
 }

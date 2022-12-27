@@ -4,6 +4,7 @@ import Beforeafter from './components/Beforeafter';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Whatweoffer from './components/Whatweoffer';
+import Tour from './components/Tour';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Whatweoffer/>
       <Beforeafter/>
       <About/>
+      <Tour/>
     </div>
   );
 }
