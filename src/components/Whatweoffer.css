@@ -1,7 +1,7 @@
 .Whatweoffer {
     width: 100%;
     text-align: center;
-    padding: 4rem 0;
+    padding: 5rem 0;
     background-color: rgb(12 10 10);
     color: aliceblue;
 }
@@ -28,6 +28,11 @@
     object-fit: cover;
     cursor: pointer;
 }
+
+/* .Whatweoffer img:hover{
+    transform: scale(1.2);
+        transition: 0.6s ease-out;
+} */
 
 p{
     margin: 0 0 2rem 0;
