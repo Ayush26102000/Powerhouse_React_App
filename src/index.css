@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+
 *{
   box-sizing: border-box;
   margin:0;
@@ -20,14 +23,21 @@ ul{
 
 li{
   text-decoration: none;
+  font-family: 'Graduate', cursive;
 }
 
 h1{
   font-size: 3.5rem;
+  font-family: 'Graduate', cursive;
+}
+
+p{
+  font-family: 'Graduate', cursive;
 }
 
 h2{
   font-size: 2rem;
+  font-family: 'Graduate', cursive;;
 }
 
 .container{
