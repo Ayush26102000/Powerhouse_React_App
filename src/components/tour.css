@@ -1,5 +1,12 @@
 .container{
     padding: 3rem 0;
+    /* background-color: rgb(12 10 10) ;
+    color: white; */
+}
+
+.t-bg{
+    background-color: rgb(12 10 10) ;
+    color: white;
 }
 
 .container h1{
