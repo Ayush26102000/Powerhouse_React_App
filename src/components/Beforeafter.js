@@ -13,7 +13,7 @@ import { GrLike } from 'react-icons/gr';
 
 const Beforeafter = () => {
     return (
-        <div className='beforeafter'>
+        <div name='Ba' className='beforeafter'>
             <div className='ba-head'>
                 <h1>BEFORE AND AFTER</h1>
             </div>

@@ -5,7 +5,7 @@ import aimg from '../assets/aimg.jpg';
 
 const About = () => {
     return (
-        <div className='about'>
+        <div name='About' className='about'>
             <div className='a-text'>
                 <h1>ABOUT OUR FIT FAMILY</h1>
                 <p>A gymnasium, also known as a gym, is an indoor location for

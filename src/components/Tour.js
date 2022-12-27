@@ -11,7 +11,7 @@ import c3 from '../assets/c3.jpg';
 
 function Tour() {
     return (
-    <div className='t-bg'>
+    <div name='tour' className='t-bg'>
         <div name='carousel' className='container'>
             <h1>Gym Tour</h1>
 

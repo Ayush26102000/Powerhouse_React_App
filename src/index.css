@@ -4,9 +4,6 @@
   padding: 0;
 }
 
-html {
-  scroll-behavior: smooth;
-}
 
 :root{
   --primary: #f9ef23;
