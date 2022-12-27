@@ -6,6 +6,7 @@ import Navbar from './components/Navbar';
 import Whatweoffer from './components/Whatweoffer';
 import Tour from './components/Tour';
 import Footer from './components/Footer';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Beforeafter />
       <Tour />
       <About />
+      <Contact/>
       <Footer/>
     </div>
   );

@@ -1,12 +1,12 @@
 .footer {
     width: 100%;
     padding: 2rem 0;
-    background-color: rgb(12 10 10 / 96%);
-    color: #fff;
+    background-color: rgba(238, 238, 238, 0.96);
+    color: rgb(0, 0, 0);
 }
 
 .footer h3 {
-    color: white;
+    color: rgb(0, 0, 0);
     padding-right: 1rem;
 }
 

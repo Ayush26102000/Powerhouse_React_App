@@ -18,14 +18,14 @@ function Navbar() {
     return (
         <div name='navbar' className={nav ? 'navbar navbar-bg' : 'navbar'}>
             <div className={nav ? 'logo dark' : 'logo'}>
-                <h2> <FaDumbbell /> POWERHOUSE</h2>
+                <h2> <FaDumbbell />  POWERHOUSE</h2>
             </div>
             <ul className='nav-menu'>
                 <Link to='home' smooth={true} duration={500}> <li> <AiOutlineHome />   Home</li></Link>
                 <Link to='Whatweoffer' smooth={true} duration={500} ><li> <MdOutlineLocalOffer /> What we Offer</li></Link>
                 <Link to='Ba' smooth={true} duration={500}> <li> <CgInsertBefore /> Results</li></Link>
                 <Link to='About' smooth={true} duration={500}>  <li> <SiAboutdotme /> About Us</li></Link>
-                <Link to='footer' smooth={true} duration={500}>   <li> <AiOutlinePhone /> Contact Us</li></Link>
+                <Link to='contact' smooth={true} duration={500}>   <li> <AiOutlinePhone /> Contact Us</li></Link>
 
 
 

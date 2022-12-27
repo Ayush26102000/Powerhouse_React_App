@@ -5,7 +5,7 @@ import { FaFacebook, FaInstagram, FaPinterest, FaTwitter, FaYoutube } from 'reac
 
 const Footer = () => {
     return (
-        <div name='footer' className='footer'>
+        <div  className='footer'>
             <div className="container">
                 <div className="top">
                     <h3>PowerHouse</h3>
