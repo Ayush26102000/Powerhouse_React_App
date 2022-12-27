@@ -11,8 +11,8 @@ function Whatweoffer() {
     return (
         <div name='Whatweoffer' className='Whatweoffer'>
             <div className="container">
-                <h1>All-Inclusive Resorts</h1>
-                <p>On the Caribbean's Best Beaches</p>
+                <h1>What We Offer</h1>
+                <p>The joy of Right Health</p>
                 <div className="img-container">
                     <img className='span-3 image-grid-row-2' src={img2} alt="/"/>
                     <img src={img6} alt="/"/>
